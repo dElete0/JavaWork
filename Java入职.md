@@ -12,7 +12,10 @@
 2. - [x] iCourt Java开发规范(这个曾经阅读过)
 3. - [ ] 线上事故
 4. - [ ] Java日常开发总结
-5. - [ ] Spring Cloud实践指南
+   - [ ] 异常使用
+   - [ ] Spring Cloud实践指南
+   - [ ] maven使用指引
+   - [ ] 工具类的使用总结
 
 ### Spring Boot 的基本使用
 - [x] 以前已经自学过了
